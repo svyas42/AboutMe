@@ -1,0 +1,23 @@
+/*
+ *Name: Sachi Vyas
+ *UnityID: smvyas
+ *Date: 07/04/22
+ *Assignment: style.css
+ *Description: Independent assignment webpages
+ */
+ 
+p {
+    font-family:Times;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+#photo-resize {
+    width: 200px;
+    height: 250px;
+    border: 2px #00ff00
+}
+
+.table-border {
+    border: 1px solid #ff0000;
+}
